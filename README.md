@@ -12,5 +12,5 @@ See the workflow diagram below!!!
 
 Watch this video!!!
 
-[![AerobotAR](https://img.youtube.com/vi/nnbhwC07Bl4/0.jpg)](https://youtu.be/nnbhwC07Bl4)
+[![AerobotVR](https://img.youtube.com/vi/nnbhwC07Bl4/0.jpg)](https://youtu.be/nnbhwC07Bl4)
 
