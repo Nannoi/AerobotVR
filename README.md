@@ -8,7 +8,7 @@ This is an Virtual reality software controled by dropdown menu and mobile joysti
 
 
 See the workflow diagram below!!!
-![workflow-11](https://github.com/Nannoi/AerobotVR/assets/126888189/199c2829-d1ed-45c0-8784-9b87fc181fd0)
+![workflow-11](https://github.com/Nannoi/AerobotVR/assets/126888189/5907109b-7bf5-4e35-82b2-c034a651547e)
 
 Watch this video!!!
 
